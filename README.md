@@ -1,2 +1,2 @@
 # 100daysofcode
-My repository for the #100daysofcode challege
+My repository for the #100daysofcode challenge
